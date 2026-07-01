@@ -32,8 +32,9 @@ git clone https://github.com/mbxss25D/fastq-lite
 cd fastq-lite
 ```
 ## Usage
-Bash
+```Bash
 python fastq-lite.py -i input.fastq.gz -a AGATCGGAAGAGC -o trimmed.fastq.gz
+```
 
 # Arguments:
 
