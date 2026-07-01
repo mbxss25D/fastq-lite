@@ -1,18 +1,18 @@
 ---
 title: 'fastq-lite: A Constant-Memory Python Adapter Trimmer for Resource-Limited NGS Analysis'
 tags:
-    - Python
-    - Bioinformatics
-    - NGS
-    - FASTQ
-    - Adapter-Trimming
-    - Low-Memory
+  - Python
+  - Bioinformatics
+  - NGS
+  - FASTQ
+  - Adapter-Trimming
+  - Low-Memory
 authors:
-     name: Sahil Shelote
+  - name: Sahil Shelote
     orcid: 0009-0007-1169-0448
     affiliation: 1
 affiliations:
-    name: Independent Researcher, London, UK
+  - name: Independent Researcher, London, UK
     index: 1
 date: 4 October 2026
 bibliography: paper.bib
@@ -37,7 +37,7 @@ Current adapter trimming tools are optimized for speed on HPC clusters. There is
 | 100k reads | fastq-lite | 12.75 MB | 6.15 s | 3,300,000 |
 | 100k reads | cutadapt | 22.00 MB | 1.32 s | 3,300,000 |
 | 1M reads | fastq-lite | 12.75 MB | 43.15 s | 33,000,000 |
-| 1M reads | cutadapt | 21.88 MB | 21.88 s | 33,000,000 |
+| 1M reads | cutadapt | 21.88 MB | 12.92 s | 33,000,000 |
 
 Memory was measured using `/usr/bin/time -v`. Accuracy was verified by md5sum of trimmed outputs.
 
