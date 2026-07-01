@@ -14,7 +14,7 @@ authors:
 affiliations:
   - name: Independent Researcher, London, UK
     index: 1
-date: 4 October 2026
+date: 1 July 2026
 bibliography: paper.bib
 ---
 
