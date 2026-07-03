@@ -12,7 +12,7 @@ authors:
     orcid: 0009-0007-1169-0448
     affiliation: 1
 affiliations:
-  - name: Independent Researcher, London, UK
+  - name: School of Life Sciences, University of Nottingham, Nottingham 
     index: 1
 date: 1 July 2026
 bibliography: paper.bib
