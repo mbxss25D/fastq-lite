@@ -51,3 +51,4 @@ License: MIT
 We thank the developers of `cutadapt` [@martin2011] for providing the benchmarking baseline.
 
 ## References
+1.	Martin, M. (2011). Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal, 17(1), 10-12.
