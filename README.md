@@ -3,7 +3,7 @@ Markdown
 **A Constant-Memory Python Adapter Trimmer for Resource-Limited NGS Analysis**
 
 * **Author:** Sahil Shelote
-* **Affiliation:** Independent Researcher, London, UK
+* **Affiliation:** The University of Nottingham, Nottingham
 * **License:** MIT
 * **Repository:** https://github.com/mbxss25D/fastq-lite
 
